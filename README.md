@@ -1,5 +1,6 @@
 # **Web Scraping Project - Data Collection from Tradestat**
-==========================
+
+
 **Overview**
 ----------------------------------------------------------------
 This project is designed to scrape trade data for multiple countries, years, and months from the Tradestat website using Selenium. The scraped data includes HS Codes, commodity information, and trade growth for specified countries and time periods. The collected data is saved in CSV format for further analysis.
